@@ -2,7 +2,7 @@
 
 // Özgür SULHAN 
 // 2420171011  
-// Sertifika Bağlantısı: https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=OKMhwoGk0v 
+// Sertifika Bağlantısı:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=OKMhwoGk0v 
 
 void dizi_yazdir(int dizi[], int BOYUT) { 
 
